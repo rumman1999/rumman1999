@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rumman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rumman M</h1>
+<h3 align="center">Loving every line of code and the AI magic it creates</h3>
 
-- 🔭 I’m currently working on [XPX](www.xpx.aidtaas.com)
+- 🔭 I’m currently working on [ai-driven-chat-app](chat-app)
 
 - 📫 How to reach me **rummanhase@gmail.com**
 
