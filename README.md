@@ -9,7 +9,7 @@
 <p align="center">I'm a passionate full-stack developer who loves working with modern technologies and creating innovative solutions. Currently, I'm diving into AI and enhancing my coding skills.</p>
 
 <h2 align="center">🔭 Current Work</h2>
-<p align="center">I’m currently working on <a href="https://github.com/yourusername/chat-app" target="_blank" style="color: #1E90FF;">ai-driven-chat-app</a></p>
+<p align="center">I’m currently working on <a href="https://github.com/rumman1999/chat-app" target="_blank" style="color: #1E90FF;">ai-driven-chat-app</a></p>
 
 <h2 align="center">📫 How to Reach Me</h2>
 <p align="center">You can email me at <a href="mailto:rummanhase@gmail.com" style="color: #1E90FF;">rummanhase@gmail.com</a></p>
