@@ -20,7 +20,7 @@
 <h2 align="center">Connect with Me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/rummanhase" target="_blank" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://github.com/yourusername" target="_blank" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="30" /></a>
+  <a href="[https://github.com/yourusername](https://github.com/rumman1999)" target="_blank" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="30" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
