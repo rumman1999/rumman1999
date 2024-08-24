@@ -8,6 +8,9 @@
 <h2 align="center">About Me</h2>
 <p align="center">I'm a passionate full-stack developer who loves working with modern technologies and creating innovative solutions. Currently, I'm diving into AI and enhancing my coding skills.</p>
 
+<h2 align="center">Working At</h2>
+<p align="center">MOBIUS by Gaian Solutions  <a href="https://www.gaiansolutions.com/" target="_blank" style="color: #1E90FF;">ai-driven-chat-app</a></p>
+
 <h2 align="center">🔭 Current Work</h2>
 <p align="center">I’m currently working on <a href="https://github.com/rumman1999/chat-app" target="_blank" style="color: #1E90FF;">ai-driven-chat-app</a></p>
 
