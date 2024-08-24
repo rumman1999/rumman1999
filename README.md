@@ -2,7 +2,7 @@
 <h3 align="center">Loving every line of code and the AI magic it creates</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/8aQEsa3.jpeg" alt="Profile Picture" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
+  <img src="https://imgur.com/a/D1F3n5t" alt="Profile Picture" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
 </p>
 
 <h2 align="center">About Me</h2>
