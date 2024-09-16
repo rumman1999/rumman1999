@@ -1,46 +1,70 @@
-<h1 align="center">Hi 👋, I'm Rumman M</h1>
-<h3 align="center">Loving every line of code and the AI magic it creates</h3>
+# About me 🐱
 
-<p align="center">
-  <img src="https://i.imgur.com/LE1jRqk.jpeg" alt="Profile Picture" width="250" style="border-radius: 50%; border: 3px solid #4CAF50;">
-</p>
+Welcome here 👋
 
-<h2 align="center">About Me</h2>
-<p align="center">I'm a passionate full-stack developer who loves working with modern technologies and creating innovative solutions. Currently, I'm diving into AI and enhancing my coding skills.</p>
-
-<h2 align="center">Software Developer</h2>
-<p align="center">MOBIUS by Gaian Solutions  <a href="https://www.gaiansolutions.com/" target="_blank" style="color: #1E90FF;">MOBIUS by Gaian Solutions </a></p>
-
-<h2 align="center">🔭 Current Work</h2>
-<p align="center">I’m currently working on <a href="https://github.com/rumman1999/chat-app" target="_blank" style="color: #1E90FF;">ai-driven-chat-app</a></p>
-
-<h2 align="center">📫 How to Reach Me</h2>
-<p align="center">You can email me at <a href="mailto:rummanhase@gmail.com" style="color: #1E90FF;">rummanhase@gmail.com</a></p>
-
-<h2 align="center">Connect with Me:</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/rummanhase" target="_blank" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="[https://github.com/yourusername](https://github.com/rumman1999)" target="_blank" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="30" /></a>
-</p>
-
-<h2 align="center">Languages and Tools:</h2>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
+<img align="right" width="300" src="https://i.imgur.com/LE1jRqk.jpeg" />
 
 
+- 👋 Hi, I’m Rumman M, a Software developer who likes to Code
+
+
+🔗 &nbsp;**Contacts**
+- ✉️ [rummanhase@gmail.com](rummanhase@gmail.com)
+- 🧑‍💻 [www.linkedin.com/in/rummanhase](www.linkedin.com/in/rummanhase) 
+
+
+🔧 &nbsp;**Major tools and technologies**
+<table>
+  <tr>
+    <td>Languages and libraries</td>
+    <td>
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+      <img width="42" src="https://devicon-website.vercel.app/api/nextjs/original.svg" />
+      <img width="42" src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" />
+      <img width="42" src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" />
+  <tr>
+    <td>Databases</td>
+    <td>
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+   <td>Dev</td>
+    <td>
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+    </td>
+  </tr>
+       <tr>
+   <td>UI Component library and CSS</td>
+    <td>
+      <img width="42" src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" />
+      <img width="42" src="https://devicon-website.vercel.app/api/bootstrap/original.svg" />
+      <img width="42" src="https://devicon-website.vercel.app/api/materialui/original.svg" />
+      <img width="42" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
+      <img width="42" src="https://logolist.net/wp-content/uploads/2024/04/shadcn-ui.svg" />
+    </td>
+  </tr>
+</table>
+
+✨ &nbsp;**About me**
+
+I am a  software engineer with  professional experience in software development., I specialise in building responsive and scalable web applications using JS Frameworks, I’m always eager to explore new frameworks and technologies. My passion lies in creating seamless user experiences and efficient back-end solutions.. I am proficient with modern development processes and practices such as agile methodology, version control systems (VCS), test-driven development (TDD), continuous integration \ delivery (CI/CD). Therefore, I prefer to build systems from scratch: designing architecture, selecting the technology stack; setting up workflows for the team; configuring deployment processes.
+
+
+📖 &nbsp;**Education**
+
+Bachelor's degree | Bachelors of Technology – Dr A.P.J Abdul Kalam Technical University , Lucknow , India
+
+🎮 &nbsp;**Hobbies**
+
+When I am not writing code, I enjoy traveling, detective stories, long drives , Play Football , Watch Football ....
