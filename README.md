@@ -2,15 +2,20 @@
 
 Welcome here 👋
 
-<img align="right" width="300" src="https://i.imgur.com/LE1jRqk.jpeg" />
 
+<img align="left" width="300" src="https://i.imgur.com/LE1jRqk.jpeg" />
 
-- 👋 Hi, I’m Rumman M, a Software developer who likes to Code
+### 👋 Hi, I’m Rumman M, a Software Developer who loves to code!
 
+I specialize in building responsive and scalable web applications using modern JavaScript frameworks. I'm passionate about creating seamless user experiences and efficient back-end solutions. Always eager to explore new technologies and frameworks!
 
-🔗 &nbsp;**Contacts**
-- ✉️ [rummanhase@gmail.com](rummanhase@gmail.com)
-- 🧑‍💻 [www.linkedin.com/in/rummanhase](www.linkedin.com/in/rummanhase) 
+---
+
+### 🔗 Contacts
+
+- ✉️ [rummanhase@gmail.com](mailto:rummanhase@gmail.com)    - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/rummanhase)
+
+---
 
 
 🔧 &nbsp;**Major tools and technologies**
