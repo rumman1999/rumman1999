@@ -5,9 +5,11 @@ Welcome here 👋
 
 <img align="left" width="300" src="https://i.imgur.com/LE1jRqk.jpeg" />
 
-### 👋 Hi, I’m Rumman M, a Software Developer who loves to code!
+### 👋 Hi, I’m Rumman M, Full Stack Developer at Mobius Networks by Gaian Solutions ,
+I enjoy creating Full Stack Products , be it enterprise level. I have been in a continous pace in developing and building Enterprise level applications.
 
-I specialize in building responsive and scalable web applications using modern JavaScript frameworks. I'm passionate about creating seamless user experiences and efficient back-end solutions. Always eager to explore new technologies and frameworks!
+
+I've had the opportunity to collaborate with some talented professionals, which has sharpened my skills and helped me grow faster.
 
 ---
 
